@@ -25,7 +25,7 @@ Welcome to **Oiram**, a Java-based 2D platformer developed to showcase engaging 
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Artifact
+   cd OIRAM
    ```
 3. Open the project in your preferred Java IDE.
 4. Build and run the game to start playing.
